@@ -1,0 +1,43 @@
+ div {
+     display: block;
+     width: 200px;
+     height: 200px;
+     background-color: chocolate;
+ }
+
+
+/*
+ @media screen and (min-width: 540px) {
+    div {
+        background-color: black;
+        width: 300px;
+    }
+ }
+ @media screen and (min-width: 720px) {
+    div {
+        
+        background-color: red;
+    }
+ }
+ 
+ @media screen and (max-width: 1140px) and (min-wigth:) {
+    div {
+        background-color: black;
+        
+    }
+ }  
+ @media screen and (orientation: portraite) {
+    div {
+        width: 400px;
+    }
+ }
+ @media screen and (orientation: landscape) {
+    div {
+        height: 400px;
+    }
+ }  
+ @media screen and (min-resolution^ 2dppx) {
+     div {
+         background-color: orange;
+     }
+ }*/
